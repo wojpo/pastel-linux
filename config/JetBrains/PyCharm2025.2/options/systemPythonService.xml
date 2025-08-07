@@ -1,9 +1,0 @@
-<application>
-  <component name="SystemPythonService">
-    <option name="userProvidedPythons">
-      <list>
-        <option value="/usr/bin/python3.13" />
-      </list>
-    </option>
-  </component>
-</application>
