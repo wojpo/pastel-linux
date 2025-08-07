@@ -1,0 +1,103 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$SelectAll">
+      <i c="1" l="1754603950315" />
+    </e>
+    <e n="$Undo">
+      <i c="1" l="1754603717061" />
+    </e>
+    <e n="CollapseRegion">
+      <i c="2" l="1754603700733" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="49" l="1754604222056" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="5" l="1754604007243" />
+    </e>
+    <e n="EditorCut">
+      <i c="2" l="1754603106250" />
+    </e>
+    <e n="EditorDeleteToWordStart">
+      <i c="25" l="1754604222392" />
+    </e>
+    <e n="EditorDown">
+      <i c="38" l="1754603090172" />
+    </e>
+    <e n="EditorEnter">
+      <i c="10" l="1754603942203" />
+    </e>
+    <e n="EditorIncreaseFontSize">
+      <i c="2" d="2" l="1754603959852" k="1754603959852" />
+    </e>
+    <e n="EditorLeft">
+      <i c="1" l="1754603082023" />
+    </e>
+    <e n="EditorPaste">
+      <i c="4" l="1754603113171" />
+    </e>
+    <e n="EditorRight">
+      <i c="2" l="1754603934147" />
+    </e>
+    <e n="EditorTab">
+      <i c="2" l="1754603115460" />
+    </e>
+    <e n="EditorUp">
+      <i c="34" l="1754603114875" />
+    </e>
+    <e n="ExpandRegion">
+      <i c="9" l="1754603700390" />
+    </e>
+    <e n="ExportSettings">
+      <i c="1" l="1754604044091" />
+    </e>
+    <e n="Images.SetBackgroundImage">
+      <i c="2" l="1754602796839" />
+    </e>
+    <e n="NewDirectoryProject">
+      <i c="2" l="1754603901425" />
+    </e>
+    <e n="NewPythonFile">
+      <i c="1" l="1754603911495" />
+    </e>
+    <e n="Register">
+      <i c="1" l="1754602053283" />
+    </e>
+    <e n="Run">
+      <i c="2" l="1754604010276" />
+    </e>
+    <e n="SaveAll">
+      <i c="13" l="1754603940933" />
+    </e>
+    <e n="SearchEverywhere">
+      <i c="2" l="1754603956738" />
+    </e>
+    <e n="ShowSettings">
+      <i c="8" l="1754604233917" />
+    </e>
+    <e n="WelcomeScreen.OpenDirectoryProject">
+      <i c="1" l="1754602027654" />
+    </e>
+    <e n="com.intellij.application.options.schemes.AbstractSchemesPanel$ShowSchemesActionsListAction">
+      <i c="1" l="1754603018747" />
+    </e>
+    <e n="com.intellij.ide.plugins.PluginManagerConfigurable$MarketplaceSortByAction">
+      <i c="1" l="1754601939046" />
+    </e>
+    <e n="com.intellij.ide.ui.OpenEditorSchemeConfigurableAction">
+      <i c="1" l="1754603021694" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="1" l="1754602106983" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.zoomIndicator.ZoomIndicatorView$settingsAction$1">
+      <i c="1" l="1754603962115" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
+      <i c="2" l="1754603575043" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
+      <i c="12" l="1754604232563" />
+    </e>
+  </component>
+</application>
