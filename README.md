@@ -9,7 +9,7 @@ I found wallpaper somewhere on the internet can't find the artist for credits :(
 
 Im using [endeavourOS](https://endeavouros.com/) as distro.
 
-sudo pacman -S sway swaybg wofi waybar nemo nautilus kitty
+`sudo pacman -S sway swaybg wofi waybar nemo nautilus kitty`
 
 Install [Maple Mono font](https://github.com/subframe7536/Maple-font) to `/usr/share/fonts`, then run `fc-cache -f -v`.
 
